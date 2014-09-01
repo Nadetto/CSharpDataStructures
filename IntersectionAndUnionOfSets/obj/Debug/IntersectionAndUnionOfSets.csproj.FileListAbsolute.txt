@@ -1,0 +1,6 @@
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\bin\Debug\IntersectionAndUnionOfSets.exe.config
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\obj\Debug\IntersectionAndUnionOfSets.csprojResolveAssemblyReference.cache
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\bin\Debug\IntersectionAndUnionOfSets.exe
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\bin\Debug\IntersectionAndUnionOfSets.pdb
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\obj\Debug\IntersectionAndUnionOfSets.exe
+N:\code\comp\Git\CSharpDataSructures\IntersectionAndUnionOfSets\obj\Debug\IntersectionAndUnionOfSets.pdb
